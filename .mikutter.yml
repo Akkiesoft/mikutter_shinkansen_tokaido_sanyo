@@ -1,0 +1,11 @@
+---
+slug: :mikutter_shinkansen_tokaido_sanyo
+depends:
+  mikutter: '3.3'
+  plugin:
+  - command
+  - gtk
+version: '0.1'
+author: Akkiesoft
+name: mikutter_shinkansen_tokaido_sanyo
+description: ﾚｨﾃﾞｨｽｴﾝﾄﾞｼﾞｪﾝﾄｩﾒﾝ。ｳｪｩｶﾑﾄｩｻﾞｼｨﾝｶｧﾝｾｪﾝ。ﾃﾞｨｽｨｽﾞｻﾞ ﾉｫｿﾞｫﾐｨ ｽｩﾊﾟｧｴｸｽﾌﾟﾚｪｽ ﾊﾞｩﾝﾄﾞ ﾌｫｰ ﾄｰｷｮｰ
